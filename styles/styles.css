@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(10, 133, 96);
+    font-family: 'Roboto Condensed', sans-serif;    
+    text-align: center;
+}
+body{
+    background-color: #fff;
+    margin-top: 0px;
+    margin-right: 200px;
+    margin-left: 200px
+}
